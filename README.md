@@ -4,7 +4,7 @@
 
 Quillx is an open standard for disclosing AI involvement in software projects - expressed through the language of authorship. Not a judgment. Just transparency.
 
-[![Quillx](badges/Quillx-3.svg)](https://github.com/qainsights/Quillx)
+[![Quillx](badges/quillx-3.svg)](https://github.com/qainsights/Quillx)
 
 ---
 
@@ -12,11 +12,11 @@ Quillx is an open standard for disclosing AI involvement in software projects - 
 
 | Badge | Score | Label | Meaning |
 |-------|-------|-------|---------|
-| ![1](badges/Quillx-1.svg) | 1 | Verse | Every line deliberate. Crafted like poetry. Human-authored entirely. |
-| ![2](badges/Quillx-2.svg) | 2 | Prose | Human voice throughout. AI helped with scaffolding and repetition. |
-| ![3](badges/Quillx-3.svg) | 3 | Adapted | A collaboration. Human-directed, AI-generated, meaningfully edited. |
-| ![4](badges/Quillx-4.svg) | 4 | Ghostwritten | AI wrote it. You briefed it, reviewed it, and signed off. |
-| ![5](badges/Quillx-5.svg) | 5 | Lorem Ipsum | Placeholder shipped as product. Generated, accepted, deployed. |
+| ![1](badges/quillx-1.svg) | 1 | Verse | Every line deliberate. Crafted like poetry. Human-authored entirely. |
+| ![2](badges/quillx-2.svg) | 2 | Prose | Human voice throughout. AI helped with scaffolding and repetition. |
+| ![3](badges/quillx-3.svg) | 3 | Adapted | A collaboration. Human-directed, AI-generated, meaningfully edited. |
+| ![4](badges/quillx-4.svg) | 4 | Ghostwritten | AI wrote it. You briefed it, reviewed it, and signed off. |
+| ![5](badges/quillx-5.svg) | 5 | Lorem Ipsum | Placeholder shipped as product. Generated, accepted, deployed. |
 
 ---
 
@@ -25,7 +25,7 @@ Quillx is an open standard for disclosing AI involvement in software projects - 
 Add to your `README.md`:
 
 ```markdown
-[![Quillx](https://raw.githubusercontent.com/qainsights/Quillx/main/badges/Quillx-2.svg)](https://github.com/qainsights/Quillx)
+[![Quillx](https://raw.githubusercontent.com/qainsights/Quillx/main/badges/quillx-2.svg)](https://github.com/qainsights/Quillx)
 ```
 
 Or declare it in plain text:
