@@ -1,8 +1,8 @@
-# ✍️ AIx
+# ✍️ AIdx
 
 **Code is literature. How much of yours did you actually write?**
 
-AIx is an open standard for disclosing AI involvement in software projects - expressed through the language of authorship. Not a judgment. Just transparency.
+AIdx is an open standard for disclosing AI involvement in software projects - expressed through the language of authorship. Not a judgment. Just transparency.
 
 [![AIx](badges/aix-3.svg)](https://github.com/qainsights/aix)
 
@@ -25,12 +25,12 @@ AIx is an open standard for disclosing AI involvement in software projects - exp
 Add to your `README.md`:
 
 ```markdown
-[![AIx](https://raw.githubusercontent.com/qainsights/aix/main/badges/aix-2.svg)](https://github.com/qainsights/aix)
+[![AIdx](https://raw.githubusercontent.com/qainsights/aix/main/badges/aix-2.svg)](https://github.com/qainsights/aidx)
 ```
 
 Or declare it in plain text:
 
-> **AIx: 2/5 · Prose** - Architecture and logic are mine. AI scaffolded the boilerplate and tests.
+> **AIdx: 2/5 · Prose** - Architecture and logic are mine. AI scaffolded the boilerplate and tests.
 
 ---
 
