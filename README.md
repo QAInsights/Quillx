@@ -25,7 +25,7 @@ AIx is an open standard for disclosing AI involvement in software projects — e
 Add to your `README.md`:
 
 ```markdown
-[![AIx](https://raw.githubusercontent.com/qainsights/aix/main/badges/aix-2.svg)](https://github.com/YOUR_USERNAME/aix)
+[![AIx](https://raw.githubusercontent.com/qainsights/aix/main/badges/aix-2.svg)](https://github.com/qainsights/aix)
 ```
 
 Or declare it in plain text:
