@@ -1,8 +1,8 @@
-# AIx Specification v3.0
+# AIdx Specification v3.0
 
-## What is AIx?
+## What is AIdx?
 
-**AIx** is an open, self-declared standard for disclosing the level of AI involvement in a software project — expressed through the language of writing and authorship.
+**AIdx** is an open, self-declared standard for disclosing the level of AI involvement in a software project — expressed through the language of writing and authorship.
 
 Because code is literature. Every function has a voice. Every commit tells a story.
 
@@ -48,7 +48,7 @@ Replace `2` with your project's score (1–5).
 
 ### In plain text
 
-> **AIx: 2/5 · Prose** — Architecture and logic are mine. AI scaffolded the boilerplate and tests.
+> **AIdx: 2/5 · Prose** — Architecture and logic are mine. AI scaffolded the boilerplate and tests.
 
 ---
 
